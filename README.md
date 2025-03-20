@@ -1,5 +1,4 @@
-# Biodiversity_shiny_app
-This is my biodiversity shiny app.
+
 # Shiny App - Biodiversity Dashboard
 
 This Shiny app displays a biodiversity dashboard with data on various species in Poland.
